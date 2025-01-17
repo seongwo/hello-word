@@ -1,2 +1,2 @@
 # hello-word
-Hi friends pratice
+Hi friends pratices
